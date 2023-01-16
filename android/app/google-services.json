@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "362041200744",
+    "firebase_url": "https://laundry-guru-50b7a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "laundry-guru-50b7a",
+    "storage_bucket": "laundry-guru-50b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362041200744:android:5d6c891d5429d34391abdd",
+        "android_client_info": {
+          "package_name": "com.example.laundry_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362041200744-r8gjr06du4rnmjusg2frj22n7k4vt57h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laundry_app",
+            "certificate_hash": "9fcc8e1e1f3b625f3eca92a5b1b9ed76cf263d62"
+          }
+        },
+        {
+          "client_id": "362041200744-hatq94r3s3nedr6sb3onou7b32orf3ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZN5nMHQNUzbOKVT1OukMQJyEhTs-U0iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362041200744-hatq94r3s3nedr6sb3onou7b32orf3ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362041200744:android:99aeb57841ad29f991abdd",
+        "android_client_info": {
+          "package_name": "com.example.washly_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362041200744-hatq94r3s3nedr6sb3onou7b32orf3ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZN5nMHQNUzbOKVT1OukMQJyEhTs-U0iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362041200744-hatq94r3s3nedr6sb3onou7b32orf3ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

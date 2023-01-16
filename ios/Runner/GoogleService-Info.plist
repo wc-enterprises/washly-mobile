@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>362041200744-1hlmgdok5stp54cksvtr0o4gu2biln26.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.362041200744-1hlmgdok5stp54cksvtr0o4gu2biln26</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>362041200744-r8gjr06du4rnmjusg2frj22n7k4vt57h.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBg8hnqpBj5haFJfJmuTfCDkKnPvJOtFBs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>362041200744</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.washlyMobile</string>
+	<key>PROJECT_ID</key>
+	<string>laundry-guru-50b7a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>laundry-guru-50b7a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:362041200744:ios:4cda4409c9edd18791abdd</string>
+	<key>DATABASE_URL</key>
+	<string>https://laundry-guru-50b7a-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
